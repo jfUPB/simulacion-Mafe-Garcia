@@ -1,4 +1,3 @@
-Entrega: escribe un texto corto donde expliques qué potencial crees que pueda tener el arte generativo y algorítmico en tu perfil profesional.
 
 #### El arte generativo y algoritmico en mi perfil como profesional
 
