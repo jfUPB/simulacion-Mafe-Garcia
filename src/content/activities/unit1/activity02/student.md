@@ -4,11 +4,11 @@ Tal como habia dicho en la primera actividad, mientras veia el como Patrik demos
 
 A continuación quiero demostrar esto un poco:
 
-![botella](../../../../asssets/botella.gif)
+![botella](../../../../assets/botella.gif)
 
 Este gif muestra como cambia el sistema de la botella y el clima creado por Patrik Hubner y algunos de los aspectos que se puede cambiar en el y que usualmente depende del clima en tiempo real en el viñedo
 
-![graf](../../../../asssets/comp-graf.gif)
+![graf](../../../../assets/comp-graf.gif)
 
 Este gif muestra un shader en el que trabaje el semestre pasado y algunos de los aspectos que se podian cambiar en el
 
