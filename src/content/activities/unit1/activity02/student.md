@@ -6,9 +6,11 @@ A continuación quiero demostrar esto un poco:
 
 ![botella](https://github.com/jfUPB/simulacion-Mafe-Garcia/blob/main/src/assets/botella.gif)
 
-ayudaa
+Este gif muestra como cambia el sistema de la botella y el clima creado por Patrik Hubner y algunos de los aspectos que se puede cambiar en el y que usualmente depende del clima en tiempo real en el viñedo
 
+![graf](https://github.com/jfUPB/simulacion-Mafe-Garcia/blob/main/src/assets/comp%20graf.gif)
 
+Este gif muestra un shader en el que trabaje el semestre pasado y algunos de los aspectos que se podian cambiar en el
 
 Si bien no tiene la misma utilidad ni detalle, encontre muchas similaridades en cuanto a como puede controlarse y cambiar aspectos de el, es como si se pudiera cambiar los aspectos de un shader en tiempo real según acciones del usuario, de buenas a primeras no tendria una idea de un proyecto para implementarlo pero considero que podria ser algo positivo y una forma en la cual se puede hacer una intersección entre diferentes disciplinas en la carrera.
 
