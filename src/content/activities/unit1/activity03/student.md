@@ -73,7 +73,7 @@ Pensaba que entre los numeros podria encontrar algun color, pero parece ir en un
 
 Investigue un poco (y un poco es un poco) stroke en javascript y vi que en uno de los sitios explicando su uso habia un ejemplo con más colores:
 
-## aqui va imagen
+![color](../../../../assets/strokecolor.png)
 
 me enredaba un poco el uso de ctx y la forma en la que se declaro el canvas, pero intente implementarlo, siempre que le daba play surgia un error, intente usar el getcontext pero creo que eso cambio como funciona todo el codigo porque entonces no podia acceder a walker sin poner esa clase primero y tenia más problemas parecidos a este.
 
@@ -132,3 +132,6 @@ class Walker {
 ```
 
 Este fue el resultado hasta el que llego en el momento en el que realice la actividad:
+
+![exp1](../../../../assets/experimento1.jpeg)
+
