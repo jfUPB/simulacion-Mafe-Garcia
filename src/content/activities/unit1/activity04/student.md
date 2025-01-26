@@ -29,7 +29,7 @@ Despues de ver el ejemplo supuse que se podria usar randomGaussian() en vez de r
 
 Sumado a los cambios que hice la actividad pasada el resultado fue este:
 
-# imagen aqui
+![trazo](../../../../assets/strokecolor.png)
 
 El codigo completo hasta este momento se ve asi:
 
