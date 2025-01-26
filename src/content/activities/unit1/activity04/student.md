@@ -29,7 +29,7 @@ Despues de ver el ejemplo supuse que se podria usar randomGaussian() en vez de r
 
 Sumado a los cambios que hice la actividad pasada el resultado fue este:
 
-![trazo](../../../../assets/strokecolor.png)
+![trazo](../../../../assets/trazo_derecha.png)
 
 El codigo completo hasta este momento se ve asi:
 
