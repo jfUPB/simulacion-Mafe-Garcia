@@ -17,12 +17,18 @@ Mi experimento inicial sera con media 5 y desviación estandar 3, si el número 
 
 Este fue mi primer intento:
 
-imagen 1
+![figura](../../../../assets/figurasv1.png)
 
 
-Si bien tecnicamente funciona, no se puede distinguir mucho los resultados ni que tan frecuentes son, por lo que intentare poner un contador para que sea cada 20 segundos, tambien agregare los colores:
+Si bien tecnicamente funciona, no se puede distinguir mucho los resultados ni que tan frecuentes son, por lo que intentare poner un contador para que sea cada 10 segundos, tambien agregare los colores:
 
-imageeen
+![figuras](../../../../assets/figurasv2.png)
+
+En esta imagen se puede ver que el ultimo número en salir fue 6, que es cercano a 5 y corresponde al triangulo naranja, que esta al frente
+
+![figurass](../../../../assets/figurasv22.png)
+
+En esta, que ocurrio 20 segundos despues, puede verse que el ultimo número en salir fue 7, que esta más alejado del 5 y corresponde al cuadrado azul, que ahora esta al frente
 
 ``` js
 let timer = 1
