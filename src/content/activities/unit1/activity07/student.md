@@ -1,15 +1,3 @@
-Ruido Perlin
-
-Enunciado: utiliza el ruido Perlin para generar variaciones aleatorias pero suaves. Construye una aplicación que permita visualizar lo anterior.
-
-Entrega:
-
-    Explica en tus propias palabras la figura 0.4: "A graph of Perlin noise values over time (left) and of random noise values over time (right)"
-    Explica cómo usaste el ruido Perlin para generar las variaciones.
-    El código.
-    Una captura de pantalla que muestre la visualización generada.
-
-
 #### Ruido Perlin:
 
 El ruido perlin (el cual se ve en la grafica a la izquierda) es un tipo de ruido que genera números "al azar", busca que los números transicionen entre ellos de forma suave, a diferencia del random que funciona con uniforme que pasa entre números que no tienen ninguna relación o cercania, y entonces se ve más "caotica" cuadno se grafica:
