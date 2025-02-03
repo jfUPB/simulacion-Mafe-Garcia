@@ -1,18 +1,3 @@
-Diseño: exploración de la idea
-
-Enunciado: diseña una aplicación interactiva en tiempo que utilice los conceptos que investigaste. La aplicación debe:
-
-    Generar una pieza de arte generativo algorítmico.
-    Debes usar al menos TRES conceptos.
-    El contenido generado debe ser interactivo. Puedes utilizar mouse, teclado, cámara, micrófono, etc, para variar los parámetros del algoritmo en tiempo real.
-
-Entrega:
-
-    Un texto donde expliques tu intención de diseño.
-    ¿Cómo piensas usar los tres conceptos y por qué estos?
-    Reporta los referentes que usaste para inspirarte.
-
-
 #### Creando una aplicación con 3 conceptos: 
 
 Apenas lei las instrucciones de lo que debo hacer se me ocurrio crear una aplicación donde tocando botones se genere un tipo de figura especifica con un tipo de distribución especifica
@@ -54,8 +39,14 @@ function draw() {
                map(mouseX, 0, width, 0, 128) + "px");*/
 }
 
+
 function moveButton() {
   button.position(random(width-200), random(height-100));
   console.log("you booped me!");
 }
 ```
+
+
+Despues de explorar la pagina de Patrik he decidido que lo que quiero es una aplicación donde al oprimir un botón, o al hacer click dentro del canvas (dependera de loq ue crea que se ve mejor al implementarlo) se cambie a un tipo diferente de distribución para formas que apareceran en pantalla, al mismo tiempo su color, tamaño, transpariencia y donde aparecera tendran sus propios tipos de distribución (aun no estoy segura de si ponerlas al azar apenas se haga el click o si cada forma tendra tipos de distribución para estos aspectos ya escogidos).
+
+La función de la aplicación seria solo estetica, lo que no se si sea aceptable pero personalmente me gusta.
