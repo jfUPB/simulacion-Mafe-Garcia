@@ -116,6 +116,7 @@ function shapes()
 Este fue el resultado visual:
 
 
+![app](../../../../assets/app1.png)
 
 Cambios en el plan:
 
