@@ -1,8 +1,4 @@
 
-    ¿Que tuviste que hacer para hacer la conversión propuesta?
-
-Entrega: el código del ejercicio.
-
 #### ¿Como conseguir la conversión opuesta?
 
 
@@ -53,3 +49,5 @@ function draw() {
 Tambien pense que podria crearse vectores para cada dirección, pero considere que seria más trabajo del ideal.
 
 Se ve asi:
+
+![walker](../../../../assets/vectorWalker.png)
