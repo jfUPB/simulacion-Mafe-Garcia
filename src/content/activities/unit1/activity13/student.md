@@ -1,0 +1,19 @@
+Autoevaluación
+
+Enunciado: evalúa tu nivel de comprensión de los conceptos de la unidad en una escala del 1 al 5 (1: Nada de comprensión, 5: Dominio completo). Justifica tu autoevaluación con ejemplos concretos de tu trabajo en la unidad. Identifica áreas donde necesitas reforzar tu aprendizaje.
+
+Entrega:
+
+    Autoevaluación con justificación y ejemplos concretos.
+    Identificación de áreas de mejora.
+
+
+#### Comprensión de temas en clase:
+
+1. Random walk: 4  --> Comprendi como funciona y puedo pensar en algunos ejemplos de como usarlo, como poner a un npc en una caminata así dentro de un area especifica, o crear una obra donde un trazo al azar sea parte de la integración, pero no entiendo bien porque seria mejor que una caminata creada con el salto de Levy, o incluso una sin movimiento aleatorio, me cuesta un poco encontrarle usos fuera de aprender los conceptos que se pueden escalar desde ahi.
+2. Distribución uniforme: 5 --> Comprendi como funciona, las diferencias con otros tipos de distribuciones, y me puedo hacer una idea de porque y donde usarla, es un tipo de aleatoriedad muy normal (aunque no sea la normal), y probablemnte en la que la mayoria de personas piensa cuando escucha la palabra, se puede usar cuando no se le da importancia a un "ritmo" ni se quiere tener resultados con más o menos probabilidades de salir.
+3. Distribución normal: 5 --> Comprendi como funciona, tambien se llama distribución gaussiana, y sirve para crear aleatoriedad que tiende a un punto, la media, un ejemplo podria ser el uso del cuchillo en undertale, entre más cerca se use al centro, más puntos de vida quita, aunque creo que ahi se usan puntos especificos, creo que es una buena representación visual.
+4. Salto de Levy: 3 --> Se como ponerlo en un codigo, y entiendo de donde surgio, como es usado en la vida real en la naturaleza, pero no lo termino de comprender muy bien, no entiendo la razon de cada paso en el codigo que lo realiza, y aunque tengo ideas de como ponerlo en practica, se me dificulta imaginarme hacerlo.
+5. Ruido Perlin: 5 --> Lo comprendi, fue además uno de los temas que más me gusto, al crear los codigos senti ahi mismo como sigue un ritmo y como este es más satisfactorio para mi.
+
+Areas de mejora: En general creo que debo preguntar más y no intentar entender todo yo sola, igualmente deberia mejorar mi an alisis de codigo
