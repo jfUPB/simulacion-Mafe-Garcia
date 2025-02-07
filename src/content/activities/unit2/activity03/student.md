@@ -1,20 +1,11 @@
-Para este experimento puedes usar las funciones console.log() y print() para imprimir mensajes en la consola del navegador. También puedes usar el método toString() de la clase p5.Vector para imprimir el vector en la consola.
-
-    ¿Qué resultado esperas obtener?
-    ¿Qué resultado obtuviste?
-    Recuerda los conceptos de paso por valor y paso por referencia en programación. Muestra ejemplos de este concepto en javascript.
-    ¿Qué tipo de paso se está realizando en el código?
-    ¿Qué aprendiste?
-
-Entrega: la solución a las preguntas.
-
-
-
 #### Imprimir los vectores por valor y referencia:
 
 En esta actividad estoy asumiendo que se me pide que ponga en la consola el vector, por lo que intentare poner ahi el vector desde el inicio, y el vector despues de pasar por la función playingVector, para esto agrego console.log(posicion.x, posicion.y) en tres momentos diferentes: uno antes de la función playingVector, uno despues de las lineas de esta, y uno en la función draw.
 
 Aqui esta mi resultado:
+
+
+![app](../../../../assets/pasoref.png)
 
 
 Se puede ver que antes de la función aparecen los valores que se declaran en setup, pero despues en ambas ocasiones aparecen los valores declarados en playingVector
