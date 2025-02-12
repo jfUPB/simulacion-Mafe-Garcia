@@ -19,4 +19,6 @@ El metodo mag() sirve para calcular la magnitud del vector, mientras que magSq()
 Al periodista me gustaria decirle como dijo en su momento un idolo mio: primero que todo, ¿Quien es usted?, segundo que todo, yo no soy su amigo, y tercero, que le importa.
 
 
-Pero realmente le diria: ah pues es un metodo que te da el producto punto entre dos vectores.
+Pero realmente le diria: ah pues es un metodo que te da el producto punto entre dos vectores. La verdad no entendi muy bien la diferencia entre la implementación y uso de la version estatica y de instancia.
+
+
