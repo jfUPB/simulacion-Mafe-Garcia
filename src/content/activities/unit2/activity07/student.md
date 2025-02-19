@@ -1,11 +1,3 @@
-Motion 101
-
-Entrega: ahora vas a leer y analizar con mucho detenimiento la sección Motion with vectors. El autor propone un marco de movimiento llamado motion 101.
-
-¿En qué consiste motion 101?
-
-Entrega: la respuesta a la pregunta e ilustra con un ejemplo.
-
 #### Motion 101 
 
 El Motion 101 en los terminos más sencillos, se refiere a primero tomar un vector que determina una posicion 1, agregarle velocidad, es decir, sumar a los valores del vector existente, ahora representa otra posicion 2, despues dibujar un objeto determinado en esta posición, y seguir asi 
