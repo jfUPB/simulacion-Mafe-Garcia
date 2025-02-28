@@ -17,4 +17,4 @@ La aceleración es obvia en videojuegos, sobretodo la implementada en videojuego
 E imagino que el codigo que se creo apara la aceleracion buscando el mouse es una base para la creación de objetos que "te siguen", como en videojuegos con Boo en Mario bros.
 
 
-![buuuu](../../../../assets/buu.png)
+![buuuu](../../../../assets/buu.jpg)
