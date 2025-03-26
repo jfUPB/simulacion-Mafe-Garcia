@@ -105,7 +105,6 @@ update() {
 
 [Codigo Fricción](https://editor.p5js.org/Mafe-Garcia/sketches/zLqMYo8X5)
 
-
 ¿Como se modelo?
 
 Para esta primera fuerza consulte mucho el texto guia, sin perder de vista los pasos, primero se busca la ecuación de esta fuerza:
@@ -132,3 +131,64 @@ Resistencia del Aire y Fluidos:
 
 
 [Codigo Resistencia del Aire y Fluidos](https://editor.p5js.org/Mafe-Garcia/sketches/-mf0xF3Iq)
+
+
+
+¿Como se modelo?
+
+Primero se busca la ecuación de esta fuerza:
+
+imagen
+
+Se revisa el numero en fracción, 1/2 es lo mismo que 0,5, que es más facil de implementar despues
+
+imagen
+
+Despues se revisa si hay vectores, el de velocidad, esta fuerza va en la direccion opuesta a la fuerza normal, se ve en el -, se puede representar con un -1 que se multiplica por todo, para el codigo entonces
+
+imagen 
+
+Se revisa que más ocurre en la ecuación, falta buscar la magnitud, esta en la ecuación se busca multiplicando el coeficiente de resistemcia, por la velocidad al cuadrado, los otros dos valores que se multiplican en la ecuación se ignoran, asumiendo que el objeto es esferico y que la desidad del liquido es 1.
+
+imagen
+
+Finalemnte se lleva esta fuerza al applyForce
+
+imagen
+
+
+
+
+Atracción gravitacional:
+
+
+
+
+[Codigo Atracción Gravitacional](https://editor.p5js.org/Mafe-Garcia/sketches/7yWnHrkG0)
+
+
+
+¿Como se modelo?
+
+Primero se busca la ecuación de esta fuerza:
+
+imagen
+
+Se revisa el numero en fracción, 1/2 es lo mismo que 0,5, que es más facil de implementar despues
+
+imagen
+
+Despues se revisa si hay vectores, el de velocidad, esta fuerza va en la direccion opuesta a la fuerza normal, se ve en el -, se puede representar con un -1 que se multiplica por todo, para el codigo entonces
+
+imagen 
+
+Se revisa que más ocurre en la ecuación, falta buscar la magnitud, esta en la ecuación se busca multiplicando el coeficiente de resistemcia, por la velocidad al cuadrado, los otros dos valores que se multiplican en la ecuación se ignoran, asumiendo que el objeto es esferico y que la desidad del liquido es 1.
+
+imagen
+
+Finalemnte se lleva esta fuerza al applyForce
+
+imagen
+
+
+
