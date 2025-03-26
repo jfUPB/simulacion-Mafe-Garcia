@@ -174,7 +174,7 @@ Primero se busca la ecuación de esta fuerza:
 
 imagen
 
-Se revisa el numero en fracción, 1/2 es lo mismo que 0,5, que es más facil de implementar despues
+Se analiza la ecuación, ¿como funciona? Se necesita medir la distacncia entre dos objetos
 
 imagen
 
