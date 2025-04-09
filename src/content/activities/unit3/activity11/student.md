@@ -104,5 +104,4 @@ Finalmente hice que la posicion de este sol dependa de donde esta el mouse, para
 [Enlace al codigo en p5.js](https://editor.p5js.org/Mafe-Garcia/sketches/WEz-5z88c)
 
 Resultado:
-
-imagen
+![nbodies](../../../../assets/n-bodiess.png)
