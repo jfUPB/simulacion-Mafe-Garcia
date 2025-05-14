@@ -39,7 +39,7 @@ En esta parte del codigo los mover aceleran, se determina hacia que punto se mov
 
 3. Identifica donde esta el Attractor de al simulación, cambia su color:
    El attractor se encuentra en su propia pestaña, es una clase, y se refiere al "sol" de este sistema. Yo lo cambie a color verde:
-    ![green](../../../../greenAttractor.png)
+   ![pink](src/assets/greenAttractor.png)
 4. El Attractor tiene dos atributos: this.rollover y this.dragging, estos no hacen nada en el codigo actualmente pero permitirian mover el attractor con el mouse y cambiar su color cuando el mouse esta sobre el, ¿Cómo podrias modificar el codigo para que esto funcione?
 
    Yo cambie el codigo poniendo una funcion mouseClicked fuera de la clase, no hice le dragging como es normalmente si no que mi idea era que cuando se haga click el attractor empieza a seguri el mouse, y cuando haga click de nuevo se queda quieto, dentro de la clase Attractor agregue aceleración y velocidad como atributos, y una update donde ve si se encuentra en estado draggin, rollover o ninguno, tambien le di colores diferentes a los tres estados.
