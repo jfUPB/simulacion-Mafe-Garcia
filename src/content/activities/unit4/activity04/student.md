@@ -1,14 +1,3 @@
-Relación con el marco motion 101
-
-Enunciado: es momento de retomar lo que has aprendido en las unidades previas e integrarlo con los nuevos conceptos de esta unidad. Observa detenidamente la siguiente simulación: Motion 101 con fuerzas
-
-    Identifica motion 101. ¿Qué modificación hay que hacer al motion 101 cuando se quiere agregar fuerzas acumulativas? Trata de recordar por qué es necesario hacer esta modificación.
-    Identifica dónde está el Attractor en la simulación. Cambia el color de este.
-    Observa que el Attractor tiene dos atributos this.dragging y this.rollover. Estos atributos no se modifican en el código, pero permitirían mover el attractor con el mouse y cambiar su color cuando el mouse está sobre él. ¿Cómo podrías modificar el código para que esto funcione? considera las funciones que ofrece p5.js para interactuar con el mouse.
-
-Entrega: reporta la respuesta a las preguntas anteriores y los resultados de las modificaciones realizadas.
-
-
 #### Motion 101 con fuerzas:
 
 1. Identifica motion 101
@@ -50,7 +39,7 @@ En esta parte del codigo los mover aceleran, se determina hacia que punto se mov
 
 3. Identifica donde esta el Attractor de al simulación, cambia su color:
    El attractor se encuentra en su propia pestaña, es una clase, y se refiere al "sol" de este sistema. Yo lo cambie a color verde:
-IMAGEN
+    ![green](../../../../greenAttractor.png)
 4. El Attractor tiene dos atributos: this.rollover y this.dragging, estos no hacen nada en el codigo actualmente pero permitirian mover el attractor con el mouse y cambiar su color cuando el mouse esta sobre el, ¿Cómo podrias modificar el codigo para que esto funcione?
 
    Yo cambie el codigo poniendo una funcion mouseClicked fuera de la clase, no hice le dragging como es normalmente si no que mi idea era que cuando se haga click el attractor empieza a seguri el mouse, y cuando haga click de nuevo se queda quieto, dentro de la clase Attractor agregue aceleración y velocidad como atributos, y una update donde ve si se encuentra en estado draggin, rollover o ninguno, tambien le di colores diferentes a los tres estados.
@@ -137,5 +126,6 @@ class Attractor {
 
 
 ```
+![pink](../../../../pinkattractor.png)
 
 [Link al codigo modificado](https://editor.p5js.org/Mafe-Garcia/sketches/WcobfN054)
