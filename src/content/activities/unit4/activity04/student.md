@@ -126,6 +126,6 @@ class Attractor {
 
 
 ```
-![pink](../../../../pinkattractor.png)
+![triangulo1](../../../../assets/pinkattractor.png)
 
 [Link al codigo modificado](https://editor.p5js.org/Mafe-Garcia/sketches/WcobfN054)
