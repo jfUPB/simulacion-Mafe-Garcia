@@ -86,3 +86,12 @@ function keyPressed(){
 [Este es el enlace al editor](https://editor.p5js.org/Mafe-Garcia/sketches/bxX7SACZx)
 
 Aqui esta una captura de como se ve:
+
+
+![sinu](../../../../assets/sinunoseque.png)
+
+
+Y aqui esta despues de que cambie cuanto se suma en side cada frame, me gusta más:
+
+
+![sinu2](../../../../assets/sinunoseque2.png)
