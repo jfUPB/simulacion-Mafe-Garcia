@@ -14,5 +14,10 @@ Entrega:
 
 #### Obra generativa algoritmica en tiempo real:
 
+Proceso de construcción:
 
 Quiero hacer algo con los osciladores, me gusta como se ven, quiza pueda hacer algo con sus colores y la cantidad que aparece, siempre me gusta poder mover cosas con el mouse, pero quiza deba experimentar con musica tambien, puede que esos ea lo que cambie los colores
+
+Tengo que buscar como crear diferentes instancias de los osciladores, y que se creen en lugares diferentes, en vez de en el mismo lugar, y que no siempre se sigan sumando
+
+Como plan b, quiza haga osciladores que cambien de tamaño y color dependiendo del sonido, pero au  no se como.
