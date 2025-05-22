@@ -116,3 +116,4 @@ class Pendulum {
 
 Captura:
 
+![pend](../../../../assets/pendulos.png)
