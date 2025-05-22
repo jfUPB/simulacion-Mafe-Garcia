@@ -73,3 +73,4 @@ function mouseReleased() {
 ```
 
 Captura:
+![pend](../../../../assets/unidad4.png)
