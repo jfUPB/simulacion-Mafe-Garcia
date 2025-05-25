@@ -1,0 +1,4 @@
+#### Simple Harmonic Motion de Memo Akten:
+
+
+Esta obra, como muchas vistas durante el curso, parece vivir en un estado de caos y equilibrio al mismo tiempo, para la mente humana es dificil predecir como se moveran los puntos en la pantalla, o que sonara en las partes de esta obra hechas por personas en vivo, sin embargo existe cierto equilibrio y armonia, se puede ver, e incluso sentir, la forma en la que se mueven se ve aleatoria pero no desordenada, la forma en la que suena tiene un ritmo, aunque no se sienta tan intencionado como lo   ue haria un humano. Me gusta la presentación de la mayoria de partes de la obra, y que parecen cosas que se pueden crear sin el uso de obras existentes. Me gustaria entender más a fondo la intencionalidad del artista y el como funcionan sus obras internamente, sobretodo als que son en vivo.
